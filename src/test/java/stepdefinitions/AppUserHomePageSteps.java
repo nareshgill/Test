@@ -27,7 +27,7 @@ public class AppUserHomePageSteps {
 			e.printStackTrace();
 		}
 		String title = appUser.getAppUserHomePageTitle();
-		System.out.println("AppUserHomePage title is: " + title);
+		System.out.println("AppUserHomePage title is : " + title);
 	}
 	
 	
